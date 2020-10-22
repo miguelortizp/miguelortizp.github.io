@@ -1,2 +1,0 @@
-# miguelortizp.github.io
-## Hello

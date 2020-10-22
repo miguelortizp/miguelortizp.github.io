@@ -12,8 +12,7 @@ _(with Raúl Sánchez de la Sierra and David Qihang Wu)_
 
 ## work in progress
 
-Land Rights and Optimal Infrastructure Allocation
-_(with Román D. Zárate)_
+I whish...
 
 ## pre-doctoral reseach
 

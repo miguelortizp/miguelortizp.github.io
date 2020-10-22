@@ -1,4 +1,4 @@
-## bio
+## about me
 
 I'm a 3rd year PhD student at UC Berkeley, in the [Business and Public Policy group](https://haas.berkeley.edu/bpp/faculty/) at the Haas School of Business. I received my BA in Economics from Universidad de los Andes (Colombia).
 

@@ -1,8 +1,23 @@
-## Welcome to GitHub Pages
+## Bio
 
-You can use the [editor on GitHub](https://github.com/miguelortizp/miguelortizp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a 3rd year PhD student at UC Berkeley, in the [Business and Public Policy group](https://haas.berkeley.edu/bpp/faculty/) at the Haas School of Business.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests are in political economy, behavioral economics and development economics.
+
+## working papers
+
+On the End of the State: Stationary Bandits and the Time Horizon in Eastern Congo
+_(with Raúl Sánchez de la Sierra and David Qihang Wu)_
+
+## work in progress
+
+Land Rights and Optimal Infraestructure Allocation
+_(with Román D. Zárate)_
+
+## pre-doctoral reseach
+
+Is Money-Saving Preventive Care a Fairy Tale?  Notfor Early Childhood
+_(with Adriana Camacho)_
 
 ### Markdown
 

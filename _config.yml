@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: MIGUEL ORTIZ
 description: [m.ortiz(at)berkeley(dot)edu]
 logo: 
-show_downloads: 
-google_analytics:
+github:
+  is_project_page: false

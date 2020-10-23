@@ -9,7 +9,7 @@ My research interests are in political economy, behavioral economics and develop
 
 ## working papers
 
-**On the End of the State: Stationary Bandits and the Time Horizon in Eastern Congo**
+[On the End of the State: Stationary Bandits and the Time Horizon in Eastern Congo]
 _(with Raúl Sánchez de la Sierra and David Qihang Wu)_
 
 ## work in progress

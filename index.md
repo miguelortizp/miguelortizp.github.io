@@ -9,12 +9,12 @@ My research interests are in political economy, behavioral economics and develop
 
 ## working papers
 
-[On the End of the State: Stationary Bandits and the Time Horizon in Eastern Congo](https://miguelortizp.github.io/)
-_(with Raúl Sánchez de la Sierra and David Qihang Wu)_
+I whish...
 
 ## work in progress
 
-I whish...
+[On the End of the State: Stationary Bandits and the Time Horizon in Eastern Congo](https://miguelortizp.github.io/)
+_(with Raúl Sánchez de la Sierra and David Qihang Wu)_
 
 ## pre-doctoral reseach
 

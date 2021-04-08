@@ -13,8 +13,8 @@ I whish...
 
 ## work in progress
 
-[On the End of the State: Stationary Bandits and the Time Horizon in Eastern Congo](https://miguelortizp.github.io/)
-_(with Raúl Sánchez de la Sierra and David Qihang Wu)_
+[On the Ends of the State: Stationary Bandits and the Time Horizon in Eastern Congo](https://miguelortizp.github.io/)
+_(with Soeren Henn, Christian Mastaki, Ra\'ul S\'anchez de la Sierra and David Q. Wu (submitted))_
 
 ## pre-doctoral reseach
 

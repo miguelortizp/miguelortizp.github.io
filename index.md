@@ -4,17 +4,17 @@ I'm a 3rd year PhD student at UC Berkeley, in the [Business and Public Policy gr
 
 My research interests are in political economy, behavioral economics and development economics.
 
-[CV](miguelortizp.github.io/pdf/CV_MO.pdf)  •  m.ortiz@berkeley.edu
+[CV](pdf/CV_MO.pdf)  •  m.ortiz@berkeley.edu
 
 
 ## working papers
 
-I whish...
+[On the Ends of the State: Stationary Bandits and the Time Horizon in Eastern Congo](https://miguelortizp.github.io/)
+_(with Soeren Henn, Christian Mastaki, Raúl Sánchez de la Sierra and David Q. Wu (submitted))_
 
 ## work in progress
 
-[On the Ends of the State: Stationary Bandits and the Time Horizon in Eastern Congo](https://miguelortizp.github.io/)
-_(with Soeren Henn, Christian Mastaki, Raúl Sánchez de la Sierra and David Q. Wu (submitted))_
+I wish...
 
 ## pre-doctoral reseach
 

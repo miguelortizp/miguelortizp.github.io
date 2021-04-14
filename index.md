@@ -11,6 +11,7 @@ My research interests are in political economy, behavioral economics and develop
 
 [On the Ends of the State: Stationary Bandits and the Time Horizon in Eastern Congo](pdf/TimeHorizon.pdf)
 _(with Soeren Henn, Christian Mastaki, Raúl Sánchez de la Sierra and David Q. Wu (submitted)_
+- Summary for a broader audience: [here](https://bfi.uchicago.edu/insight/finding/on-the-ends-of-the-state-stationary-bandits-and-the-time-horizon-in-eastern-congo/)
 
 ## work in progress
 

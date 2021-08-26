@@ -1,6 +1,6 @@
 ## about me
 
-I'm a 3rd year PhD student at UC Berkeley, in the [Business and Public Policy group](https://haas.berkeley.edu/bpp) at the Haas School of Business. I have a BA in Economics from Universidad de los Andes (Colombia).
+I'm a 4th year PhD student at UC Berkeley, in the [Business and Public Policy group](https://haas.berkeley.edu/bpp) at the Haas School of Business. I have a BA in Economics from Universidad de los Andes (Colombia).
 
 My research interests are in political economy, behavioral economics and development economics.
 

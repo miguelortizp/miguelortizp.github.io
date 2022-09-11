@@ -9,7 +9,7 @@ My research interests are in political economy, development economics and behavi
 
 ## working papers
 
-[Monopoly of Taxation Without a Monopoly of Violence: The Weak State's Trade-Off Between Taxation and Safety](pdf/KimiaII.pdf)
+[Monopoly of Taxation Without a Monopoly of Violence: The Weak State's Trade-Off Between Taxation and Safety](pdf/KimiaII.pdf)<br/>
 _with Soeren Henn, Christian Mastaki, Raúl Sánchez de la Sierra and David Q. Wu (r&r Review of Economic Studies)_ <br/>
 <span style="font-size:0.8em;">• Summary for a broader audience: [here](https://miguelortizp.github.io/)</span>
 
@@ -19,7 +19,7 @@ Studying intergroup conflict in Nigeria
 
 ## pre-doctoral reseach
 
-[Is Money-Saving Preventive Care a Fairy Tale? Not for Early Childhood](https://miguelortizp.github.io/)
+[Is Money-Saving Preventive Care a Fairy Tale? Not for Early Childhood](https://miguelortizp.github.io/)<br/>
 _(with Adriana Camacho)_
 
 

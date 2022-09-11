@@ -9,7 +9,7 @@ My research interests are in political economy, development economics and behavi
 
 ## working papers
 
-[The Perils of Building a Monopoly of Violence: How Asserting The State Creates Lasting Incentives for Violent Banditry](pdf/KimiaII.pdf)
+[Monopoly of Taxation Without a Monopoly of Violence: The Weak State's Trade-Off Between Taxation and Safety](pdf/KimiaII.pdf)
 _with Soeren Henn, Christian Mastaki, Raúl Sánchez de la Sierra and David Q. Wu (r&r Review of Economic Studies)_ <br/>
 <span style="font-size:0.8em;">• Summary for a broader audience: [here](https://miguelortizp.github.io/)</span>
 

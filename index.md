@@ -11,7 +11,7 @@ My research interests are in political economy, development economics and behavi
 
 [Monopoly of Taxation Without a Monopoly of Violence: The Weak State's Trade-Off Between Taxation and Safety](pdf/KimiaII.pdf)<br/>
 _with Soeren Henn, Christian Mastaki, Raúl Sánchez de la Sierra and David Q. Wu_ <br/>
-(r&r Review of Economic Studies) <br/>
+(r&r **Review of Economic Studies**) <br/>
 <!-- <span style="font-size:0.8em;">• Summary for a broader audience: [here](https://miguelortizp.github.io/)</span> (Lo de las flechas es para volverlo comentario) -->
 
 ## work in progress

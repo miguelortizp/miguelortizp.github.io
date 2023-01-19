@@ -2,7 +2,7 @@
 
 I'm a 5th year PhD student at UC Berkeley, in the [Business and Public Policy group](https://haas.berkeley.edu/bpp) at the Haas School of Business. I have a BA in Economics from Universidad de los Andes (Colombia).
 
-My research interests are in political economy, development economics and behavioral economics.
+My research interests are in political economy, development economics and .
 
 [CV](pdf/CV_MO.pdf) • m.ortiz@berkeley.edu
 

@@ -4,7 +4,8 @@ I'm a 5th year PhD student at UC Berkeley, in the [Business and Public Policy gr
 
 My research interests are in development economics, political economy and behavioral economics.
 
-[<u>CV</u>](pdf/CV_MO.pdf) • m.ortiz@berkeley.edu
+[**CV**](pdf/CV_MO.pdf) • m.ortiz@berkeley.edu
+<br/><br/>
 
 
 ## working papers
@@ -13,10 +14,12 @@ My research interests are in development economics, political economy and behavi
 _with Soeren Henn, Christian Mastaki, Raúl Sánchez de la Sierra and David Q. Wu_ <br/>
 (r&r _**Review of Economic Studies**_) <br/>
 <!-- <span style="font-size:0.8em;">• Summary for a broader audience: [here](https://miguelortizp.github.io/)</span> (Lo de las flechas es para volverlo comentario) -->
+<br/><br/>
 
 ## work in progress
 
 Spite, Fear and Intergroup Conflict: Evidence from Christians and Muslims in Nigeria _(experiment ongoing)_
+<br/><br/>
 
 ## pre-doctoral reseach
 

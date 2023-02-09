@@ -4,7 +4,7 @@ I'm a 5th year PhD student at UC Berkeley, in the [Business and Public Policy gr
 
 My research interests are in development economics, political economy and behavioral economics.
 
-[CV](pdf/CV_MO.pdf) • m.ortiz@berkeley.edu
+<u>[CV]</u>(pdf/CV_MO.pdf) • m.ortiz@berkeley.edu
 
 
 ## working papers

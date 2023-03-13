@@ -16,7 +16,7 @@ _with Soeren Henn, Christian Mastaki, Raúl Sánchez de la Sierra and David Q. W
 
 ## work in progress
 
-Spite, Fear and Intergroup Conflict: Evidence from Christians and Muslims in Nigeria _(experiment ongoing)_
+[Spite, Fear and Intergroup Conflict: Experimental Evidence from Nigeria](https://miguelortizp.github.io/) _(experiment ongoing)_
 
 ## pre-doctoral reseach
 

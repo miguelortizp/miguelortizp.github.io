@@ -21,6 +21,6 @@ _with Soeren Henn, Christian Mastaki, Raúl Sánchez de la Sierra and David Q. W
 ## pre-doctoral reseach
 
 [Is Money-Saving Preventive Care a Fairy Tale? Not for Early Childhood](https://miguelortizp.github.io/)<br/>
-_(with Adriana Camacho)_
+_(with Adriana Camach)_
 
 

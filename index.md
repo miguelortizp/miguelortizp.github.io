@@ -2,25 +2,32 @@
 
 I'm a 6th year PhD student at UC Berkeley, in the [Business and Public Policy group](https://haas.berkeley.edu/bpp) at the Haas School of Business. I have a BA in Economics from Universidad de los Andes (Colombia).
 
+I will be in the 2023/2024 academic job market.
+
 My research interests are in development economics, political economy and behavioral economics.
 
 [(CV)](pdf/CV_MO.pdf) • m.ortiz@berkeley.edu
 
 
-## working papers
+## job market paper
 
-[Monopoly of Taxation Without a Monopoly of Violence: The Weak State's Trade-Off Between Taxation and Safety](pdf/KimiaII.pdf)<br/>
+[Spite, Fear and Intergroup Conflict: Experimental Evidence from Nigeria](https://miguelortizp.github.io/)<br/>
+<span style="font-size:0.8em;">• [Appendix](https://miguelortizp.github.io/)</span>
+
+## publications
+
+[Monopoly of Taxation Without a Monopoly of Violence: The Weak State's Trade-Offs from Taxation](pdf/KimiaII.pdf)<br/>
 _with Soeren Henn, Christian Mastaki, Raúl Sánchez de la Sierra and David Q. Wu_ <br/>
-(r&r _**Review of Economic Studies**_) <br/>
+(Accepted _**Review of Economic Studies**_) <br/>
 <!-- <span style="font-size:0.8em;">• Summary for a broader audience: [here](https://miguelortizp.github.io/)</span> (Lo de las flechas es para volverlo comentario) -->
 
-## work in progress
+## work in progres
 
-[Spite, Fear and Intergroup Conflict: Experimental Evidence from Nigeria](https://miguelortizp.github.io/) _(fieldwork completed)_
+[Local Markets as Intergroup Contact Platforms: Evidence from an RCT in Nigeria](https://miguelortizp.github.io/)<br/>
+_(Full funding secured)_
 
-## pre-doctoral reseach
+[Ethiopian Factory: The Effect of Managerial Practices of Chinese Firms on Ethiopian Workers](https://miguelortizp.github.io/)<br/>
+_(with David Q. Wu)_
 
-[Is Money-Saving Preventive Care a Fairy Tale? Not for Early Childhood](https://miguelortizp.github.io/)<br/>
-_(with Adriana Camacho)_
 
 

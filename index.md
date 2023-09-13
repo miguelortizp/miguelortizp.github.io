@@ -1,6 +1,6 @@
 ## about me
 
-I'm a 6th year PhD student at UC Berkeley, in the [Business and Public Policy group](https://haas.berkeley.edu/bpp) at the Haas School of Business. I have a BA in Economics from Universidad de los Andes (Colombia).
+I'm a 6th year PhD student at UC Berkeley, in the [Business and Public Policy group](https://haas.berkeley.edu/bpp) at the Haas School of Business, and the [ACES Dissertation Fellow](https://www.acesecon.org/aces-dissertation-fellowship). I have a BA in Economics from Universidad de los Andes (Colombia).
 
 I will be on the 2023/2024 academic job market.
 

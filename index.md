@@ -6,7 +6,7 @@ I will be on the 2023/2024 academic job market.
 
 My research interests are in development economics, political economy and behavioral economics.
 
-[(CV)](pdf/CV_MO.pdf) • m.ortiz@berkeley.edu
+[(Curriculum Vitae)](pdf/CV_MO.pdf) • m.ortiz@berkeley.edu
 
 
 ## job market paper

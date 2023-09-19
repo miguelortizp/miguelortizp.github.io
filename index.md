@@ -11,7 +11,7 @@ My research interests are in development economics, political economy and behavi
 
 ## job market paper
 
-[Spite, Fear and Intergroup Conflict: Experimental Evidence from Nigeria](pdf/SpiteFear_Ortiz)<br/>
+[Spite, Fear and Intergroup Conflict: Experimental Evidence from Nigeria](pdf/SpiteFear_Ortiz.pdf)<br/>
 <span style="font-size:0.8em;">• [Appendix](https://miguelortizp.github.io/)</span>
 
 ## publications

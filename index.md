@@ -12,7 +12,7 @@ My research interests are in development economics, political economy and behavi
 ## job market paper
 
 [Hate, Fear and Intergroup Conflict: Experimental Evidence from Nigeria](pdf/HateFear_Ortiz.pdf)<br/>
-<span style="font-size:0.8em;">• [Appendix](https://miguelortizp.github.io/)</span>
+<span style="font-size:0.8em;">• [Appendix](pdf/SpiteFear_Ortiz.pdf)</span>
 
 ## publications
 

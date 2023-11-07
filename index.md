@@ -12,7 +12,8 @@ _I am on the 2023/2024 academic job market._
 ## job market paper
 
 [Hate, Fear and Intergroup Conflict: Experimental Evidence from Nigeria](pdf/HateFear_Ortiz.pdf)<br/>
-<span style="font-size:0.8em;">• Winner of the Weiss Family Distinguished Paper at [NEUDC 2023]([https://miguelortizp.github.io/](https://www.hks.harvard.edu/centers/cid/events/neudc-2023-conference/agenda))</span>
+<span style="font-size:0.8em;">• Winner of the Weiss Family Distinguished Paper at [NEUDC 2023](https://www.hks.harvard.edu/centers/cid/events/neudc-2023-conference/agenda)</span>
+
 <span style="font-size:0.8em;">• Covered in: [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2023/11/is-fear-a-bigger-problem-than-hate.html)</span>
 
 ## publications

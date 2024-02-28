@@ -2,9 +2,7 @@
 
 I'm a 6th year PhD student at UC Berkeley, in the [Business and Public Policy group](https://haas.berkeley.edu/bpp) at the Haas School of Business, and the [ACES Dissertation Fellow](https://www.acesecon.org/aces-dissertation-fellowship). I have a BA in Economics from Universidad de los Andes (Colombia).
 
-My research interests are in development economics, political economy and behavioral economics.
-
-_I am on the 2023/2024 academic job market._
+My research interests are in political economy, development economics and behavioral economics.
 
 [(Curriculum Vitae)](pdf/CV_MO.pdf) • m.ortiz@berkeley.edu
 

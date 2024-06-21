@@ -1,6 +1,6 @@
 ## about me
 
-During the 2024-2025 academic year, I'll be a Postdoctoral Research Associate at Princeton University, at the [Research Program in Development Economics](https://rpde.princeton.edu/). 
+During the 2024-2025 academic year, I'll be a Postdoctoral Research Associate at Princeton University, in the [Research Program in Development Economics](https://rpde.princeton.edu/). 
 
 In the Fall of 2025, I'll become an Assistant Professor at the [Vancouver School of Economics](https://economics.ubc.ca/) at the University of British Columbia. 
 

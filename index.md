@@ -30,7 +30,7 @@ _with Soeren Henn, Christian Mastaki, Raúl Sánchez de la Sierra and David Q. W
 _with Eunice B. Atajiri_ _(funding secured)_
 
 [Ethiopian Factory: The Effect of Managerial Practices of Chinese Firms on Ethiopian Workers](https://miguelortizp.github.io/)<br/>
-_with David Q. Wu_ _(funding secured)_
+_with Shibiru Ayalew and David Q. Wu_ _(funding secured)_
 
 
 

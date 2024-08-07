@@ -11,7 +11,7 @@ My research interests are in political economy, development economics and behavi
 [(Curriculum Vitae)](pdf/CV_MO.pdf) • mo2790@princeton.edu
 
 
-## job market paper
+## working papers
 
 [Hate, Fear and Intergroup Conflict: Experimental Evidence from Nigeria](pdf/HateFear_Ortiz.pdf)<br/>
 <span style="font-size:0.8em;">• Winner of the Weiss Family Distinguished Paper at [NEUDC 2023](https://www.hks.harvard.edu/centers/cid/events/neudc-2023-conference/agenda)</span><br>

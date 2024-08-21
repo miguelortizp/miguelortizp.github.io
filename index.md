@@ -1,10 +1,10 @@
 ## about me
 
-I am a Postdoctoral Research Associate at Princeton University, in the [Research Program in Development Economics](https://rpde.princeton.edu/). 
+I am a Postdoctoral Research Associate at Princeton University, at the [Research Program in Development Economics](https://rpde.princeton.edu/). 
 
 In the Fall of 2025, I will become an Assistant Professor at the [Vancouver School of Economics](https://economics.ubc.ca/) at the University of British Columbia. 
 
-I have PhD from UC Berkeley and a BA in Economics from Universidad de los Andes (Colombia).
+I have a PhD from UC Berkeley and a BA in Economics from Universidad de los Andes (Colombia).
 
 My research interests are in political economy, development economics and behavioral economics.
 

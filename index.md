@@ -8,7 +8,7 @@ I have a PhD from UC Berkeley and a BA in Economics from Universidad de los Ande
 
 My research interests are in political economy, development economics and behavioral economics.
 
-[(Curriculum Vitae)](pdf/CV_MO.pdf) • mo2790@princeton.edu
+[(Curriculum Vitae)](pdf/CV_MO.pdf) • miguelortiz@princeton.edu
 
 
 ## working papers

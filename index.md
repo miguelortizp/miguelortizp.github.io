@@ -14,6 +14,7 @@ My research interests are in political economy, development economics and behavi
 ## working papers
 
 [Hate, Fear and Intergroup Conflict: Experimental Evidence from Nigeria](pdf/HateFear_Ortiz.pdf)<br/>
+_[New version coming soon!]_ <br/>
 <span style="font-size:0.8em;">• Winner of the Weiss Family Distinguished Paper at [NEUDC 2023](https://www.hks.harvard.edu/centers/cid/events/neudc-2023-conference/agenda)</span><br>
 <span style="font-size:0.8em;">• Covered in: [VoxDev](https://voxdev.org/topic/institutions-political-economy/fear-more-hate-drives-intergroup-conflict-nigeria), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2023/11/is-fear-a-bigger-problem-than-hate.html)</span>
 

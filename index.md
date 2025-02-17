@@ -27,7 +27,7 @@ _with Soeren Henn, Christian Mastaki, Raúl Sánchez de la Sierra and David Q. W
 
 ## work in progress
 
-[Local Markets as Intergroup Contact Platforms: Evidence from an RCT in Nigeria](https://miguelortizp.github.io/)<br/>
+[Intergroup Integration Through Local Markets: Evidence from an RCT in Nigeria](https://miguelortizp.github.io/)<br/>
 _with Eunice B. Atajiri_ _(fieldwork ongoing)_
 
 [Ethiopian Factory: The Effect of Managerial Practices of Chinese Firms on Ethiopian Workers](https://miguelortizp.github.io/)<br/>

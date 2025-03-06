@@ -21,7 +21,7 @@ _(submitted)_ <br/>
 ## publications
 
 [Monopoly of Taxation Without a Monopoly of Violence: The Weak State's Trade-Offs from Taxation](pdf/Monopoly_of_Taxation.pdf)<br/>
-_with Soeren Henn, Christian Mugaruka, Raúl S. de la Sierra and David Q. Wu_ <br/>
+_with Soeren Henn, Mastaki Mugaruka, Raúl Sánchez dela Sierra and David Wu_ <br/>
 (_**Review of Economic Studies**_, 2024) <br/>
 <!-- <span style="font-size:0.8em;">• Summary for a broader audience: [here](https://miguelortizp.github.io/)</span> (Lo de las flechas es para volverlo comentario) -->
 

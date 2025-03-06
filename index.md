@@ -31,7 +31,7 @@ _with Soeren Henn, Mastaki Mugaruka, Raúl Sánchez dela Sierra and David Wu_ <b
 _with Eunice B. Atajiri_ _(fieldwork ongoing)_
 
 [Ethiopian Factory: The Effect of Managerial Practices of Chinese Firms on Ethiopian Workers](https://miguelortizp.github.io/)<br/>
-_with Shibiru Ayalew and David Qihang Wu_ _(funding secured)_
+_with Shibiru Ayalew and David Qihang Wu_ _(full funding secured)_
 
 
 

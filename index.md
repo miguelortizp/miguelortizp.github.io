@@ -1,14 +1,12 @@
 ## about me
 
-I am a Postdoctoral Research Associate at Princeton University, at the [Research Program in Development Economics](https://rpde.princeton.edu/). 
+I am a Assistant Professor at the [Vancouver School of Economics](https://economics.ubc.ca/) at the University of British Columbia.
 
-In the Fall of 2025, I will become an Assistant Professor at the [Vancouver School of Economics](https://economics.ubc.ca/) at the University of British Columbia. 
-
-I have a PhD from UC Berkeley and a BA in Economics from Universidad de los Andes (Colombia).
+Previously, I was a Postdoctoral Associate at Princeton University ([RPDE](https://rpde.princeton.edu/)). I have a PhD from UC Berkeley and a BA in Economics from Universidad de los Andes (Colombia).
 
 My research interests are in political economy, development economics and behavioral economics.
 
-[(CV)](pdf/CV_MO.pdf) • miguelortiz@princeton.edu
+[(CV)](pdf/CV_MO.pdf) • m.ortiz@berkeley.edu
 
 
 ## working papers
@@ -21,7 +19,7 @@ _(new version!)_ <br/>
 ## publications
 
 [Monopoly of Taxation Without a Monopoly of Violence: The Weak State's Trade-Offs from Taxation](pdf/Monopoly_of_Taxation.pdf)<br/>
-_with Soeren Henn, Mastaki Mugaruka, Raúl Sánchez dela Sierra and David Wu_ <br/>
+_with Soeren Henn, Mastaki Mugaruka, Raúl S. dela Sierra and David Q. Wu_ <br/>
 (_**Review of Economic Studies**_, 2024) <br/>
 <!-- <span style="font-size:0.8em;">• Summary for a broader audience: [here](https://miguelortizp.github.io/)</span> (Lo de las flechas es para volverlo comentario) -->
 
@@ -31,7 +29,7 @@ _with Soeren Henn, Mastaki Mugaruka, Raúl Sánchez dela Sierra and David Wu_ <b
 _with Eunice B. Atajiri_ _(fieldwork ongoing)_
 
 [Ethiopian Factory: The Effect of Managerial Practices of Chinese Firms on Ethiopian Workers](https://miguelortizp.github.io/)<br/>
-_with Shibiru Ayalew and David Qihang Wu_ _(full funding secured)_
+_with Shibiru Ayalew and David Q. Wu_ _(full funding secured)_
 
 
 

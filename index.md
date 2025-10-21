@@ -28,7 +28,7 @@ _with Soeren Henn, Mastaki Mugaruka, Raul S. dela Sierra and David Q. Wu_ <br/>
 [Intergroup Integration Through Local Markets: Evidence from an RCT](https://miguelortizp.github.io/)<br/>
 _with Eunice B. Atajiri_ _(main experiment ongoing)_
 
-[Ethiopian Factory: The Effect of Managerial Practices of Chinese Firms on Ethiopian Workers](https://miguelortizp.github.io/)<br/>
+[Importing Business Practices: The Effects of Chinese and American Trainings on Ethiopian Workers](https://miguelortizp.github.io/)<br/>
 _with Shibiru Ayalew and David Q. Wu_ _(pilot ongoing)_
 
 

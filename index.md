@@ -2,7 +2,7 @@
 
 I am an Assistant Professor at the [Vancouver School of Economics](https://economics.ubc.ca/) at the University of British Columbia.
 
-Previously, I was a Postdoctoral Associate at Princeton University ([RPDE](https://rpde.princeton.edu/)). I have a PhD from UC Berkeley and a BA in Economics from Universidad de los Andes (Colombia).
+Previously, I was a Postdoctoral Associate at Princeton University ([RPDE](https://rpde.princeton.edu/)). I have a PhD from UC Berkeley and a BA from Universidad de los Andes (Colombia).
 
 My research interests are in political economy, development economics and behavioral economics.
 

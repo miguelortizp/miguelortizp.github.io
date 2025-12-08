@@ -2,7 +2,7 @@
 
 I am an Assistant Professor at the [Vancouver School of Economics](https://economics.ubc.ca/) at the University of British Columbia.
 
-Previously, I was a Postdoctoral Associate at Princeton University ([RPDE](https://rpde.princeton.edu/)). I have a PhD from UC Berkeley and a BA from Universidad de los Andes (Colombia).
+Previously, I was a Postdoctoral Research Associate at Princeton University ([RPDE](https://rpde.princeton.edu/)). I have a PhD from UC Berkeley and a BA from Universidad de los Andes (Colombia).
 
 My research interests are in political economy, development economics and behavioral economics.
 
@@ -29,7 +29,7 @@ _with Soeren Henn, Mastaki Mugaruka, Raul S. dela Sierra and David Q. Wu_ <br/>
 _with Eunice B. Atajiri_ _(main experiment ongoing)_
 
 [Importing Business Practices: The Effects of Chinese and American Trainings on Ethiopian Workers](https://miguelortizp.github.io/)<br/>
-_with Shibiru Ayalew and David Q. Wu_ _(pilot ongoing)_
+_with Shibiru Ayalew and David Q. Wu_ _(pilot completed)_
 
 
 

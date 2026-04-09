@@ -25,11 +25,18 @@ _with Soeren Henn, Mastaki Mugaruka, Raul S. dela Sierra and David Q. Wu_ <br/>
 
 ## work in progress
 
-[Intergroup Integration Through Local Markets: Evidence from an RCT](https://miguelortizp.github.io/)<br/>
-_with Eunice B. Atajiri_ _(analysis stage)_
+[When Market Gains Fail to Break Segregation: The Role of Unwarranted Fear](https://miguelortizp.github.io/)<br/>
+_with Eunice Atajiri_ _(analysis stage)_
 
 [Business Practices from Foreign Cultures: The Effects of Chinese and American Trainings on Ethiopian Workers](https://miguelortizp.github.io/)<br/>
-_with Shibiru Ayalew and David Q. Wu_ _(pilot completed)_
+_with Shibiru Ayalew and David Q. Wu_ _(main experiment ongoing)_
+
+[Paying for Justice: Evidence from Labor Courts in Mexico](https://miguelortizp.github.io/)<br/>
+_with Christopher Blattman, Enrique Seira and Joyce Sadka_ _(pilot ongoing)_
+
+[Breaking the Bubble: Economic Elite Exposure to Marginalized Communities](https://miguelortizp.github.io/)<br/>
+_with Christopher Blattman and Jose A. Guerra_ _(pilot ongoing)_
+
 
 
 

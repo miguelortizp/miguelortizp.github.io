@@ -31,11 +31,11 @@ _with Eunice Atajiri_ _(analysis stage)_
 [Business Practices from Foreign Cultures: The Effects of Chinese and American Trainings on Ethiopian Workers](https://miguelortizp.github.io/)<br/>
 _with Shibiru Ayalew and David Q. Wu_ _(main experiment ongoing)_
 
-[Paying for Justice: Evidence from Labor Courts in Mexico](https://miguelortizp.github.io/)<br/>
-_with Christopher Blattman, Enrique Seira and Joyce Sadka_ _(pilot ongoing)_
+[Costly Punishment in the Real World: Evidence from Labor Courts in Mexico](https://miguelortizp.github.io/)<br/>
+_with Chris Blattman, Enrique Seira and Joyce Sadka_ _(pilot ongoing)_
 
 [Breaking the Bubble: Economic Elite Exposure to Marginalized Communities](https://miguelortizp.github.io/)<br/>
-_with Christopher Blattman and Jose A. Guerra_ _(pilot ongoing)_
+_with Chris Blattman and Jose A. Guerra_ _(pilot ongoing)_
 
 
 

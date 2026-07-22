@@ -6,8 +6,6 @@ Previously, I was a Postdoctoral Research Associate at Princeton University ([RP
 
 My research interests are in political economy, development economics and behavioral economics.
 
-[(CV)](pdf/CV_MO.pdf) • miguel.ortiz@ubc.ca
-
 
 ## working papers
 

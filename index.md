@@ -23,14 +23,14 @@ _with Soeren Henn, Mastaki Mugaruka, Raul S. dela Sierra and David Q. Wu_ <br/>
 
 ## work in progress
 
-[When Market Gains Fail to Break Segregation: The Role of Unwarranted Fear](https://miguelortizp.github.io/)<br/>
+[Fear Traps: Persistent Avoidance Despite Incentives to Explore](https://miguelortizp.github.io/)<br/>
 _with Eunice Atajiri_ _(writing stage)_
 
 [Business Practices from Foreign Cultures: The Effects of Chinese and American Trainings on Ethiopian Workers](https://miguelortizp.github.io/)<br/>
 _with Shibiru Ayalew and David Q. Wu_ _(main experiment ongoing)_
 
 [Seeing the State: Elite Exposure to Public Goods and the Fiscal Contract](https://miguelortizp.github.io/)<br/>
-_with Chris Blattman and Jose A. Guerra_ _(pilot completed)_
+_with Chris Blattman and Jose A. Guerra_ _(main experiment ongoing)_
 
 [Costly Punishment in the Real World: Evidence from Labor Courts](https://miguelortizp.github.io/)<br/>
 _with Chris Blattman, Enrique Seira and Joyce Sadka_ _(pilot ongoing)_

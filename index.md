@@ -23,7 +23,7 @@ _with Soeren Henn, Mastaki Mugaruka, Raul S. dela Sierra and David Q. Wu_ <br/>
 
 ## work in progress
 
-[Fear Traps: Persistent Avoidance Despite Incentives to Explore](https://miguelortizp.github.io/)<br/>
+[Fear Traps: Persistent Avoidance Despite Evidence and Incentives](https://miguelortizp.github.io/)<br/>
 _with Eunice Atajiri_ _(writing stage)_
 
 [Business Practices from Foreign Cultures: The Effects of Chinese and American Trainings on Ethiopian Workers](https://miguelortizp.github.io/)<br/>

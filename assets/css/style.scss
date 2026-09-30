@@ -13,3 +13,25 @@ h2 {
   margin-top: 2em;
   margin-bottom: 0.5em;
 }
+
+// Style the title with MIGUEL and ORTIZ
+h1 {
+  margin: 0;
+  line-height: 1.1;
+  font-weight: normal;
+}
+
+h1 .title-normal {
+  color: #2f6db5;     // normal blue
+  font-weight: normal;
+}
+
+h1 .title-bold {
+  color: #1d2d4d;     // dark blue
+  font-weight: bold;
+}
+
+h1 .title-normal,
+h1 .title-bold {
+  display: inline;
+}

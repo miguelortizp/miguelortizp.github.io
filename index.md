@@ -1,3 +1,7 @@
+---
+title: MIGUEL ORTIZ
+---
+
 ## about me
 
 I am an Assistant Professor at the [Vancouver School of Economics](https://economics.ubc.ca/) at the University of British Columbia.

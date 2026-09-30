@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Override hover behavior to remove bold font-weight
+a:hover {
+  font-weight: normal;
+}

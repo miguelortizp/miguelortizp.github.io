@@ -18,7 +18,7 @@ My research interests are in political economy, development economics and behavi
 <span style="font-size:0.8em;">• Winner of the Weiss Family Distinguished Paper at [NEUDC 2023](https://www.hks.harvard.edu/centers/cid/events/neudc-2023-conference/agenda)</span><br>
 <span style="font-size:0.8em;">• Covered in: [VoxDev](https://voxdev.org/topic/institutions-political-economy/fear-more-hate-drives-intergroup-conflict-nigeria), [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2023/11/is-fear-a-bigger-problem-than-hate.html)</span>
 
-[Fear Traps: Persistent Avoidance Despite Disconfirming Evidence](pdf/FearTraps_OrtizAtajiri.pdf)<br/>
+[Fear Traps: Evidence from Segregated Markets in Nigeria](pdf/FearTraps_OrtizAtajiri.pdf)<br/>
 _with Eunice Atajiri_ _(Sept 2026)_
 
 ## publications
@@ -36,7 +36,7 @@ _with Shibiru Ayalew and David Q. Wu_ _(main experiment ongoing)_
 [Seeing the State: Elite Exposure to Public Goods and the Fiscal Contract](https://miguelortizp.github.io/)<br/>
 _with Chris Blattman and Jose A. Guerra_ _(main experiment ongoing)_
 
-[Costly Punishment in the Real World: Evidence from Labor Courts](https://miguelortizp.github.io/)<br/>
+[Dignity and Costly Punishment: Evidence from Labor Courts](https://miguelortizp.github.io/)<br/>
 _with Chris Blattman, Enrique Seira and Joyce Sadka_ _(pilot ongoing)_
 
 

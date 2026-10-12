@@ -36,7 +36,7 @@ _with Shibiru Ayalew and David Q. Wu_ _(main experiment ongoing)_
 [Seeing the State: Elite Exposure to Public Goods and the Fiscal Contract](https://miguelortizp.github.io/)<br/>
 _with Chris Blattman and Jose A. Guerra_ _(main experiment ongoing)_
 
-[Dignity and Costly Punishment: Evidence from Labor Courts](https://miguelortizp.github.io/)<br/>
+[Dignity and Costly Punishment: Evidence from Labor Disputes](https://miguelortizp.github.io/)<br/>
 _with Chris Blattman, Enrique Seira and Joyce Sadka_ _(pilot ongoing)_
 
 
